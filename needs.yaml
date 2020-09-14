@@ -1,0 +1,28 @@
+window:
+        - width
+        - height
+        - title
+
+canvas:
+        - x
+        - y
+        - width
+        - height  
+
+button:
+        - text
+        - command
+
+label:
+        - text
+
+circle:
+        - x
+        - y
+        - radius
+
+line:
+        - from_x
+        - from_y
+        - to_x
+        - to_y
